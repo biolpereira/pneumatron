@@ -1,0 +1,63 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=shield_pneumatron_V3
+*Date=12:45:50
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;-0.515338;-16.4551;180;Bottom;Part4
+2;;to220v;42.8424;-38.0451;90;Bottom;Q5
+3;;power_jack_pth_lock;50.8058;-12.1084;-90;Bottom;J32
+4;;;55.8027;-31.1464;-90;Bottom;TXT1
+5;;ksa_sealed_tac_switch;29.3297;-41.8551;90;Bottom;S1
+6;;;31.6979;-13.962;-90;Bottom;TXT1
+7;;;27.5469;-41.9547;-90;Bottom;TXT1
+8;;;14.6156;-39.9526;-90;Bottom;TXT1
+9;;;43.1263;-19.6125;0;Bottom;TXT1
+10;;;20.9166;-44.9159;-90;Bottom;TXT1
+11;;;50.4125;-9.04532;0;Bottom;TXT1
+12;;THT;9.00966;-44.3951;0;Bottom;J15
+13;1µF;100 mil [THT, electrolytic];34.4097;-13.9151;-90;Bottom;C2
+14;330;THT;31.8697;-25.3451;90;Bottom;R1
+15;;;51.5141;-19.6719;0;Bottom;TXT1
+16;;;22.9487;-26.6151;0;Bottom;Part3
+17;;THT;43.2997;-30.4251;-90;Bottom;J7
+18;;THT;50.9197;-25.3451;-90;Bottom;J24
+19;;THT;50.9197;-30.4251;-90;Bottom;J23
+20;;;10.8991;-44.5064;-90;Bottom;TXT1
+21;;;11.0145;-33.2296;-90;Bottom;TXT1
+22;330;THT;23.1975;-39.533;90;Bottom;R5
+23;;;12.8627;-33.0711;-90;Bottom;TXT1
+24;;;47.0535;-45.5016;0;Bottom;TXT1
+25;;;23.3744;-40.0015;-90;Bottom;TXT1
+26;;;9.12978;-33.3205;-90;Bottom;TXT1
+27;;;18.2666;-9.62238;0;Bottom;TXT1
+28;330;THT;36.9497;-43.1251;90;Bottom;R3
+29;;;37.1201;-43.1203;-90;Bottom;TXT1
+30;;;6.27178;-39.5259;-90;Bottom;TXT1
+31;1µF;100 mil [THT, electrolytic];39.4897;-13.9151;-90;Bottom;C1
+32;;;3.66196;-40.0142;-90;Bottom;TXT1
+33;;;47.5153;-38.3134;-90;Bottom;TXT1
+34;330;THT;14.5517;-39.5455;90;Bottom;R4
+35;;THT;43.2997;-25.3451;-90;Bottom;J25
+36;330;THT;47.1097;-45.6651;180;Bottom;R2
+37;;;50.7346;-28.1196;0;Bottom;TXT1
+38;;;40.0074;-38.0378;-90;Bottom;TXT1
+39;;THT;17.8997;-15.1851;-90;Bottom;J31
+40;;THT;19.1697;-44.3951;0;Bottom;J33
+41;;to220v;50.4624;-38.0451;90;Bottom;Q4
+42;5V;TO220 [THT];36.9497;-8.58112;180;Bottom;U1
+43;;;37.0295;-7.65868;0;Bottom;TXT1
+44;;;41.7399;-14.314;-90;Bottom;TXT1
+45;;;32.0372;-25.6605;-90;Bottom;TXT1
+46;;;40.8161;-27.9885;0;Bottom;TXT1
+47;;;3.33989;-16.6294;-90;Bottom;TXT1
+48;;;17.9142;-11.6219;0;Bottom;TXT1
